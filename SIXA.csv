@@ -1,0 +1,12 @@
+id,lname,fname,position_id,affiliation_id,key_campaign,key_achievement,is_current_officer,votes
+1,Cross,Anna,1,1,Equality,Top Performer,1,46
+2,Hunn,Alex,1,1,Salary Increase,Best in Costume,0,49
+3,Forest,Bobby,1,2,Community Service,Millionaire,0,33
+4,Wolff,Benny,2,1,Charity,Top Sales Guy,0,32
+5,Wayne,Bruce,2,2,More Benefits,Zero Bugs,1,15
+6,Ford,Carlie,3,3,More Challenges,Largest shoes,1,47
+7,Stone,Chin,3,4,Lesser Code Reviews,No tardy,0,28
+26,Austin,Jane,3,4,Change language,Longest hair,0,26
+9,Millet,Henry,3,2,Change boss,New car,0,22
+10,Juarez,Leo,4,3,Change project,Another girlfriend,0,42
+11,King,Martin,4,4,Change seatmate,6 years single,0,36
